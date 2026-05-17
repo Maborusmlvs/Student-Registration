@@ -70,7 +70,7 @@ Menghapus data mahasiswa dari sistem.
 
 ## Screenshot Aplikasi
 
-> *(Segera Hadir)*
+> ![Screenshot Aplikasi](Assets/TampilanWeb.png)
 
 ---
 
