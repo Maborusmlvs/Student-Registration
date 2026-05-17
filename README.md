@@ -77,14 +77,14 @@ Menghapus data mahasiswa dari sistem.
 ## Struktur Project
 
 ```bash
-StudentReg/
+STUDENT-REGISTRATION/
 │
+├── Assets/
+│   └── TampilanWeb.png
+│
+├── .gitattributes
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── assets/
+└── README.md
 ```
 
 ---
