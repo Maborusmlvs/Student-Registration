@@ -94,7 +94,7 @@ STUDENT-REGISTRATION/
 1. Clone repository ini
 
 ```bash
-git clone https://github.com/username/studentreg.git
+git clone https://github.com/ReaReiKulo/Student-Registration.git
 ```
 
 2. Masuk ke folder project
